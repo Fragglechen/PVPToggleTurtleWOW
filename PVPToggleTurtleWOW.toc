@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: PVPToggleTurtleWOW
+## Notes: PvP status frame with minimap options, lock icon, timer handling, and options menu.
+## Author: Fragglechen
+## Version: 1.0.0
+## SavedVariables: PvpToggleTurtleDB
+
+PvpToggleTurtle.lua
